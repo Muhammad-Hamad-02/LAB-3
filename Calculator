@@ -4,4 +4,5 @@ int main()
 { 
 cout<<"My name is Hamad"<<endl;
 cout<< "23-st-012";
+cout<<"the sum of two numbers are:"<<a+b;
 return 0;}
