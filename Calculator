@@ -1,0 +1,7 @@
+#include<iostream>
+using namespace std;
+int main()
+{ 
+cout<<"My name is Hamad"<<endl;
+cout<< "23-st-012";
+return 0;}
