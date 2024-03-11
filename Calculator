@@ -2,10 +2,11 @@
 using namespace std;
 int main()
 { 
-cout<<"My name is Hamad"<<endl;
-cout<< "23-st-012";
+cout<<"My name is Faizan Ahmed"<<endl;
+cout<< "23-st-043";
 cout<<"the sum of two numbers are:"<<a+b;
 cout<<"the subtraction of two numbers are:"<<a-b;
 cout<<"the multiplication of two numbers are:"<<a*b;
 cout<<"the division of two numbers are:"<<a/b;
-return 0;}
+return 0;
+}
